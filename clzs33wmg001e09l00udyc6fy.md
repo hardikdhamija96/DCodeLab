@@ -5,7 +5,7 @@ seoDescription: "Explore JavaScript closures and lexical scoping with fun, pract
 datePublished: Sun Sep 01 2024 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: clzs33wmg001e09l00udyc6fy
 slug: decoding-closures-exploring-javascript-with-fun-examples
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1725970455579/84599978-f2f1-43ed-8a22-2169b6ae0513.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1726309557041/f11c62dc-aef2-4e3b-861d-b09b37211afc.png
 tags: interview, closure, javascript, web-development, webdev
 
 ---
