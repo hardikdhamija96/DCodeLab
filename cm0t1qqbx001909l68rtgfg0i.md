@@ -5,8 +5,8 @@ seoDescription: "Learn JavaScript classes: syntax, differences from functions, a
 datePublished: Sun Sep 08 2024 04:00:56 GMT+0000 (Coordinated Universal Time)
 cuid: cm0t1qqbx001909l68rtgfg0i
 slug: understanding-javascript-classes-beyond-the-basics
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1725768218537/116a01b4-7695-46dc-a78e-abeb27869f40.png
-tags: javascript, classes, oops
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1726377064292/cc3a1b6a-8a2d-4d05-bd25-f3f93a8d31b1.png
+tags: interview, javascript, classes, oops
 
 ---
 
