@@ -5,7 +5,7 @@ seoDescription: "Introductory guide to JavaScript polyfills: what they are, why 
 datePublished: Wed Sep 04 2024 05:15:23 GMT+0000 (Coordinated Universal Time)
 cuid: cm0nen2gm000c0amjdkff1d21
 slug: javascript-polyfills-an-introductory-guide
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1725412218794/77ecf020-264f-473c-a631-2fdcf0db11c5.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1726377189157/6e6907bb-394f-4a5a-a856-fef879d3c558.png
 tags: interview, javascript, polyfills
 
 ---
